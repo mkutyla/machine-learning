@@ -1,6 +1,6 @@
 # Machine learning
 
-This repository contains machine learning projects created during my studies at Warsaw University of Technology and as part of side projects.
+This repository contains machine learning projects created during my studies at Warsaw University of Technology (WUT) and as part of side projects.
 
 # Projects
 
